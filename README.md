@@ -1,2 +1,3 @@
-# MERN_net_ninja
+# WORKOUT BUDDY
+This is my first MERN app
  
